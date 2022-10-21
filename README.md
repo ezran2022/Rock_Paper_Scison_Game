@@ -26,7 +26,10 @@ Now you loose because it does not match the condition of winning
 
 ## This is how this app work!!!
 
+### Link
+https://poetic-clafoutis-e8f779.netlify.app
 
+### code
 ``` javascript
 
 
